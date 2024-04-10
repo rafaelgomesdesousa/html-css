@@ -53,6 +53,7 @@ main>section>p{
     color: white;
     padding: 50px;
     padding-bottom: 1px;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.485);
 }
 
 .p1{
